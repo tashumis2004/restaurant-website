@@ -35,13 +35,9 @@ A modern, responsive restaurant landing page built using **HTML, CSS and JavaScr
 > Internet chahiye, kyunki fonts aur images online load hoti hain.
 
 ## 🌐 Live Demo
-https://YOUR-USERNAME.github.io/royal-bites-restaurant-website/
+https://YOUR-USERNAME.github.io/royal-bites-restaurant-website
 
 ## 📌 Future Improvements
 - Backend for real reservations
 - Online ordering
 - Dark/light mode toggle
-
-## 👤 Author
-**Your Name**
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
